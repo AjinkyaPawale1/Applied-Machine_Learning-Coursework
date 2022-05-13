@@ -3,7 +3,7 @@
 
  * Covers Assignments Performed in Applied Machine LearningP556 at IUB
 
-# Authors
+### Authors
 - Ajinkya Pawale (ajpawale@iu.edu)
 - Jo YoungHeun (joy.neuro@gmail.com)
 - Maazin Jawad (mjawad@iu.edu)
