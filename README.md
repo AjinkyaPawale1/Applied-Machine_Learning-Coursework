@@ -2,6 +2,7 @@
 # P556-ajpawale
 ### Applied Machine Learning
 
+ * Covers Assignments Performed in Artificial Intelligence B551 at IUB
 
 # Authors
 - Ajinkya Pawale (ajpawale@iu.edu)
